@@ -1,0 +1,18 @@
+# サイト設定（GitHub Pages / Jekyll）
+title: "今日のホットニュース"
+description: "ウェブサービスの脆弱性・情報流出に関するニュースを毎朝9時（日本時間）にまとめています。非エンジニア向けの解説付き。"
+lang: ja
+timezone: Asia/Tokyo   # 朝9時JSTの記事が「未来日付」扱いで非公開になるのを防ぐ
+
+theme: minima
+show_excerpts: true
+
+# プロジェクトサイト（https://<user>.github.io/<repo>/）の場合、
+# GitHub Pages が baseurl を自動設定します。手動で指定する場合のみ下記を有効化。
+# baseurl: "/<repo-name>"
+
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - CLAUDE.md
+  - README.md
