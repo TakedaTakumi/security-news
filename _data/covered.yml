@@ -1,0 +1,78 @@
+# 掲載済み案件の台帳（重複除外用）。書式は CLAUDE.md の「7. 台帳を更新する」を参照。
+- id: gmo-onamae-desktop-cloud-2026-10
+  title: お名前.com デスクトップクラウド不正アクセス（情報持ち出し・FX不正取引・脅迫）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [GMOインターネット, お名前.com, デスクトップクラウド, FX, MT4, MT5, アヴァトレード]
+  cves: []
+  posts: [2026-10-26]
+- id: php2shell-2026-10
+  title: PHP2Shell（PHP本体の重大脆弱性）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [PHP, PHP2Shell]
+  cves: [CVE-2026-109618, CVE-2026-109619]
+  posts: [2026-10-26]
+- id: nextcloud-collabora-code-kev-2026-10
+  title: Nextcloud内蔵Collabora（richdocumentscode）の脆弱性 CISA KEV追加
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [Nextcloud, Collabora, richdocumentscode, CISA KEV]
+  cves: [CVE-2026-110447]
+  posts: [2026-10-26]
+- id: arista-velocloud-orchestrator-kev-2026-10
+  title: Arista VeloCloud Orchestrator SQLインジェクション CISA KEV追加
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [Arista, VeloCloud, VCO, CISA KEV]
+  cves: [CVE-2026-114625]
+  posts: [2026-10-26]
+- id: rakus-blastmail-2026-10
+  title: ブラストメール不正アクセスと利用企業への波及（ピッコマ約100万件ほか）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [ラクス, ラクスライトクラウド, ブラストメール, ピッコマ, カカオピッコマ, 東京都, 新潟日報, マックハウス]
+  cves: []
+  posts: [2026-10-26]
+- id: litellm-malicious-release-2026-10
+  title: LiteLLM 悪性版1.107.0配布（漏えいマスターキー起因）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [LiteLLM, BerriAI, PyPI, サプライチェーン攻撃]
+  cves: []
+  posts: [2026-10-26]
+- id: brotli-node2shell-2026-10
+  title: Brotliデコーダーの脆弱性（Node2Shell/HTTP2Shell）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [Brotli, Node2Shell, HTTP2Shell, Node.js, Bun, Envoy]
+  cves: [CVE-2026-111497]
+  posts: [2026-10-26]
+- id: chariloto-2026-10
+  title: チャリロト アプリ不正アクセス（373名）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [チャリロト, チャリ・ロト, MIXI, チャリカ]
+  cves: []
+  posts: [2026-10-26]
+- id: andst-hd-2026-10
+  title: アンドエスティHD 業務サーバー侵入（顧客約250万件の流出可能性）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [アンドエスティ, and ST]
+  cves: []
+  posts: [2026-10-26]
+- id: yamada-denki-2026-10
+  title: ヤマダデンキ 不正アクセスで一部サービス停止
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [ヤマダデンキ, スマホゴールド会員, ヤマダビデオ]
+  cves: []
+  posts: [2026-10-26]
+- id: system5-2026-10
+  title: システムファイブ 委託先不正アクセス（最大約15,000名）
+  first_reported: 2026-10-26
+  last_updated: 2026-10-26
+  keywords: [システムファイブ, SYSTEM5]
+  cves: []
+  posts: [2026-10-26]
