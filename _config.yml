@@ -4,8 +4,20 @@ description: "ウェブサービスの脆弱性・情報流出に関するニュ
 lang: ja
 timezone: Asia/Tokyo   # 朝9時JSTの記事が「未来日付」扱いで非公開になるのを防ぐ
 
-theme: midnight
-show_excerpts: true
+# minima 3.0 系（開発版）をコミット固定で使う。
+# master の HEAD は破壊的変更が入るため、必ずコミットを固定する。
+remote_theme: jekyll/minima@4de322363fca5927e6f4012cb94f6dad69ab5e6c
+
+# remote_theme ではテーマの依存プラグインが自動で入らないため明示する
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: dark
+  show_excerpts: true
+  date_format: "%Y年%-m月%-d日"
 
 # プロジェクトサイト（https://<user>.github.io/<repo>/）の場合、
 # GitHub Pages が baseurl を自動設定します。手動で指定する場合のみ下記を有効化。
