@@ -4,7 +4,7 @@ description: "ウェブサービスの脆弱性・情報流出に関するニュ
 lang: ja
 timezone: Asia/Tokyo   # 朝9時JSTの記事が「未来日付」扱いで非公開になるのを防ぐ
 
-theme: minima
+theme: jekyll-theme-midnight
 show_excerpts: true
 
 # プロジェクトサイト（https://<user>.github.io/<repo>/）の場合、
