@@ -2,12 +2,14 @@
 
 ウェブサービスの脆弱性・情報流出に関するニュースを、Claude Code のルーティンで毎朝 9:00（JST）に自動作成し、GitHub Pages で公開するリポジトリです。
 
+公開サイト：https://takedatakumi.github.io/security-news/
+
 ## 構成
 
 | パス | 役割 |
 |---|---|
 | `CLAUDE.md` | 毎朝のタスク手順書（ルーティンが自動で読み込む） |
-| `_config.yml` | Jekyll 設定（theme: minima, timezone: Asia/Tokyo） |
+| `_config.yml` | Jekyll 設定（minima 3.0 系 dark スキンを remote_theme で固定, timezone: Asia/Tokyo） |
 | `index.md` | トップページ（記事一覧） |
 | `_posts/` | 毎日の記事 |
 | `_data/covered.yml` | 掲載済み案件の台帳（重複除外に使用） |
