@@ -25,6 +25,9 @@ minima:
 
 permalink: /:year/:month/:day/:title/
 
+# 記事一覧の抜粋は「今日のポイント」直後の区切り線までとする
+excerpt_separator: "\n---\n"
+
 exclude:
   - CLAUDE.md
   - README.md
