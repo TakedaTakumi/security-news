@@ -76,3 +76,24 @@
   keywords: [システムファイブ, SYSTEM5]
   cves: []
   posts: [2026-10-26]
+- id: rakuten-travel-2026-10
+  title: 楽天トラベル 海外ホテル予約サイト等への不正アクセス（最大約260万件）
+  first_reported: 2026-10-27
+  last_updated: 2026-10-27
+  keywords: [楽天トラベル, 楽天グループ, 海外ホテル予約, 多言語予約サイト]
+  cves: []
+  posts: [2026-10-27]
+- id: joshin-2026-10
+  title: Joshin（ジョーシン） 不正アクセスで最大600万件超の個人情報漏えいの可能性
+  first_reported: 2026-10-27
+  last_updated: 2026-10-27
+  keywords: [Joshin, ジョーシン, 上新電機]
+  cves: []
+  posts: [2026-10-27]
+- id: bandai-logipal-2026-10
+  title: バンダイロジパル 物流システム不正アクセス（一番くじONLINE配送情報）
+  first_reported: 2026-10-27
+  last_updated: 2026-10-27
+  keywords: [バンダイロジパル, 一番くじONLINE, バンダイスピリッツ]
+  cves: []
+  posts: [2026-10-27]
