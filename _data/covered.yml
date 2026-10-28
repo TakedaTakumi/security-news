@@ -2,10 +2,10 @@
 - id: gmo-onamae-desktop-cloud-2026-10
   title: お名前.com デスクトップクラウド不正アクセス（情報持ち出し・FX不正取引・脅迫）
   first_reported: 2026-10-26
-  last_updated: 2026-10-26
+  last_updated: 2026-10-28
   keywords: [GMOインターネット, お名前.com, デスクトップクラウド, FX, MT4, MT5, アヴァトレード]
   cves: []
-  posts: [2026-10-26]
+  posts: [2026-10-26, 2026-10-28]
 - id: php2shell-2026-10
   title: PHP2Shell（PHP本体の重大脆弱性）
   first_reported: 2026-10-26
@@ -104,3 +104,45 @@
   keywords: [Apple, iOS 27.2, macOS, Safari, CoreGraphics]
   cves: [CVE-2026-86950]
   posts: [2026-10-27]
+- id: capcom-id-2026-10
+  title: カプコン CAPCOM ID 不正アクセス（約1,177万件）
+  first_reported: 2026-10-28
+  last_updated: 2026-10-28
+  keywords: [カプコン, CAPCOM ID, イーカプコン]
+  cves: []
+  posts: [2026-10-28]
+- id: yakiniku-king-2026-10
+  title: 焼肉きんぐ公式アプリ 会員情報約1,079万件漏えい
+  first_reported: 2026-10-28
+  last_updated: 2026-10-28
+  keywords: [物語コーポレーション, 焼肉きんぐ]
+  cves: []
+  posts: [2026-10-28]
+- id: mrmax-2026-10
+  title: ミスターマックス 会員情報最大約173万人流出
+  first_reported: 2026-10-28
+  last_updated: 2026-10-28
+  keywords: [ミスターマックス, MrMaxアプリ]
+  cves: []
+  posts: [2026-10-28]
+- id: times-car-2026-10
+  title: タイムズカー 不正アクセス（本人確認書類画像約146万件）
+  first_reported: 2026-10-28
+  last_updated: 2026-10-28
+  keywords: [パーク24, タイムズモビリティ, タイムズカー, タイムズクラブ]
+  cves: []
+  posts: [2026-10-28]
+- id: studio-design-2026-10
+  title: Studio クラウド環境への不正アクセス（復号用鍵も読み出し）
+  first_reported: 2026-10-28
+  last_updated: 2026-10-28
+  keywords: [Studio, studio.design, デジタル庁]
+  cves: []
+  posts: [2026-10-28]
+- id: tailworm-tailscale-2026-10
+  title: Tailscale SSH等の脆弱性群「Tailworm」
+  first_reported: 2026-10-28
+  last_updated: 2026-10-28
+  keywords: [Tailscale, headscale, Tailworm]
+  cves: []
+  posts: [2026-10-28]
