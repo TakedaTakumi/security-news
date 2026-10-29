@@ -9,10 +9,10 @@
 - id: php2shell-2026-10
   title: PHP2Shell（PHP本体の重大脆弱性）
   first_reported: 2026-10-26
-  last_updated: 2026-10-26
-  keywords: [PHP, PHP2Shell]
-  cves: [CVE-2026-109618, CVE-2026-109619]
-  posts: [2026-10-26]
+  last_updated: 2026-10-29
+  keywords: [PHP, PHP2Shell, Linux Kernel]
+  cves: [CVE-2026-109618, CVE-2026-109619, CVE-2026-46300]
+  posts: [2026-10-26, 2026-10-29]
 - id: nextcloud-collabora-code-kev-2026-10
   title: Nextcloud内蔵Collabora（richdocumentscode）の脆弱性 CISA KEV追加
   first_reported: 2026-10-26
@@ -44,10 +44,10 @@
 - id: brotli-node2shell-2026-10
   title: Brotliデコーダーの脆弱性（Node2Shell/HTTP2Shell）
   first_reported: 2026-10-26
-  last_updated: 2026-10-26
+  last_updated: 2026-10-29
   keywords: [Brotli, Node2Shell, HTTP2Shell, Node.js, Bun, Envoy]
   cves: [CVE-2026-111497]
-  posts: [2026-10-26]
+  posts: [2026-10-26, 2026-10-29]
 - id: chariloto-2026-10
   title: チャリロト アプリ不正アクセス（373名）
   first_reported: 2026-10-26
@@ -146,3 +146,38 @@
   keywords: [Tailscale, headscale, Tailworm]
   cves: []
   posts: [2026-10-28]
+- id: sony-network-communications-2026-10
+  title: Sony Network Communications（So-net／plala）会員情報約258万件流出
+  first_reported: 2026-10-29
+  last_updated: 2026-10-29
+  keywords: [Sony Network Communications, So-net, plala, ドコモ光]
+  cves: []
+  posts: [2026-10-29]
+- id: adobe-commerce-kev-2026-10
+  title: Adobe Commerce/Magento 任意ファイルアップロード脆弱性 CISA KEV追加
+  first_reported: 2026-10-29
+  last_updated: 2026-10-29
+  keywords: [Adobe Commerce, Magento, CISA KEV]
+  cves: [CVE-2026-48356]
+  posts: [2026-10-29]
+- id: oracle-ebs-2026-10
+  title: Oracle E-Business Suite 重大脆弱性への探索的攻撃
+  first_reported: 2026-10-29
+  last_updated: 2026-10-29
+  keywords: [Oracle, E-Business Suite, EBS]
+  cves: [CVE-2026-101767]
+  posts: [2026-10-29]
+- id: convertr-skimmer-2026-10
+  title: Convertr アクセス解析スクリプト改ざんによるカード情報窃取
+  first_reported: 2026-10-29
+  last_updated: 2026-10-29
+  keywords: [Convertr, Plausible, Sansec]
+  cves: [CVE-2026-8467]
+  posts: [2026-10-29]
+- id: volt-typhoon-silent-train-2026-10
+  title: Volt Typhoon 中継インフラ「Silent Train」
+  first_reported: 2026-10-29
+  last_updated: 2026-10-29
+  keywords: [Volt Typhoon, Silent Train, Black Lotus Labs, VeloCloud]
+  cves: [CVE-2026-16812, CVE-2026-20127]
+  posts: [2026-10-29]
