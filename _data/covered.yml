@@ -2,17 +2,17 @@
 - id: gmo-onamae-desktop-cloud-2026-10
   title: お名前.com デスクトップクラウド不正アクセス（情報持ち出し・FX不正取引・脅迫）
   first_reported: 2026-10-26
-  last_updated: 2026-10-28
+  last_updated: 2026-10-30
   keywords: [GMOインターネット, お名前.com, デスクトップクラウド, FX, MT4, MT5, アヴァトレード]
   cves: []
-  posts: [2026-10-26, 2026-10-28]
+  posts: [2026-10-26, 2026-10-28, 2026-10-30]
 - id: php2shell-2026-10
   title: PHP2Shell（PHP本体の重大脆弱性）
   first_reported: 2026-10-26
-  last_updated: 2026-10-29
+  last_updated: 2026-10-30
   keywords: [PHP, PHP2Shell, Linux Kernel]
   cves: [CVE-2026-109618, CVE-2026-109619, CVE-2026-46300]
-  posts: [2026-10-26, 2026-10-29]
+  posts: [2026-10-26, 2026-10-29, 2026-10-30]
 - id: nextcloud-collabora-code-kev-2026-10
   title: Nextcloud内蔵Collabora（richdocumentscode）の脆弱性 CISA KEV追加
   first_reported: 2026-10-26
@@ -177,7 +177,42 @@
 - id: volt-typhoon-silent-train-2026-10
   title: Volt Typhoon 中継インフラ「Silent Train」
   first_reported: 2026-10-29
-  last_updated: 2026-10-29
+  last_updated: 2026-10-30
   keywords: [Volt Typhoon, Silent Train, Black Lotus Labs, VeloCloud]
   cves: [CVE-2026-16812, CVE-2026-20127]
-  posts: [2026-10-29]
+  posts: [2026-10-29, 2026-10-30]
+- id: binance-hack-probe-2026-10
+  title: Binance 最大約58億ドル規模の流出の可能性（調査中）
+  first_reported: 2026-10-30
+  last_updated: 2026-10-30
+  keywords: [Binance, Tether, Circle, Arkham]
+  cves: []
+  posts: [2026-10-30]
+- id: jal-amadeus-2026-10
+  title: JAL 旅客情報流出（Amadeus 不正アクセス・約9.2万人）
+  first_reported: 2026-10-30
+  last_updated: 2026-10-30
+  keywords: [日本航空, JAL, Amadeus, ANA]
+  cves: []
+  posts: [2026-10-30]
+- id: cisco-asa-ftd-vpn-dos-2026-10
+  title: Cisco ASA/FTD SSL VPN の脆弱性 悪用確認
+  first_reported: 2026-10-30
+  last_updated: 2026-10-30
+  keywords: [Cisco, ASA, FTD, SSL VPN]
+  cves: [CVE-2026-76418]
+  posts: [2026-10-30]
+- id: linux-tcp-uaf-2026-10
+  title: Linux カーネル TCP の use-after-free 脆弱性
+  first_reported: 2026-10-30
+  last_updated: 2026-10-30
+  keywords: [Linux, TCP, MPTCP, Ubuntu, RHEL]
+  cves: [CVE-2026-98432]
+  posts: [2026-10-30]
+- id: polymarket-debugbear-2026-10
+  title: Polymarket 第三者スクリプト改ざんによる暗号資産流出
+  first_reported: 2026-10-30
+  last_updated: 2026-10-30
+  keywords: [Polymarket, DebugBear]
+  cves: []
+  posts: [2026-10-30]
