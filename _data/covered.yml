@@ -184,10 +184,10 @@
 - id: binance-hack-probe-2026-10
   title: Binance 最大約58億ドル規模の流出の可能性（調査中）
   first_reported: 2026-10-30
-  last_updated: 2026-10-30
-  keywords: [Binance, Tether, Circle, Arkham]
+  last_updated: 2026-10-31
+  keywords: [Binance, Tether, Circle, Arkham, TraderTraitor, DevOps]
   cves: []
-  posts: [2026-10-30]
+  posts: [2026-10-30, 2026-10-31]
 - id: jal-amadeus-2026-10
   title: JAL 旅客情報流出（Amadeus 不正アクセス・約9.2万人）
   first_reported: 2026-10-30
@@ -216,3 +216,31 @@
   keywords: [Polymarket, DebugBear]
   cves: []
   posts: [2026-10-30]
+- id: gitlab-regex-rce-kev-2026-10
+  title: GitLab CE/EE 最大深刻度の脆弱性 悪用確認
+  first_reported: 2026-10-31
+  last_updated: 2026-10-31
+  keywords: [GitLab, CI/CD, 正規表現]
+  cves: [CVE-2026-97229]
+  posts: [2026-10-31]
+- id: drupal-commerce-core-2026-10
+  title: Drupal Commerce Core 重大な脆弱性 悪用確認
+  first_reported: 2026-10-31
+  last_updated: 2026-10-31
+  keywords: [Drupal, Commerce Core]
+  cves: [CVE-2026-118539]
+  posts: [2026-10-31]
+- id: cursor-fake-claude-code-ext-2026-10
+  title: Cursor マーケットプレイスの偽 Claude Code 拡張機能（SSH バックドア）
+  first_reported: 2026-10-31
+  last_updated: 2026-10-31
+  keywords: [Cursor, Claude Code, 拡張機能, SSH]
+  cves: []
+  posts: [2026-10-31]
+- id: trezor-safe5-implant-2026-10
+  title: Trezor Safe 5 不正部品の疑い（CryptoBilis 経由、未確認）
+  first_reported: 2026-10-31
+  last_updated: 2026-10-31
+  keywords: [Trezor, Safe 5, CryptoBilis, Ledger]
+  cves: []
+  posts: [2026-10-31]
