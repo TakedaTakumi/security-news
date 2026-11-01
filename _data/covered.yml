@@ -244,3 +244,38 @@
   keywords: [Trezor, Safe 5, CryptoBilis, Ledger]
   cves: []
   posts: [2026-10-31]
+- id: matsuya-app-2026-10
+  title: 松屋フーズ アプリ管理システム侵害（約237万件）
+  first_reported: 2026-11-01
+  last_updated: 2026-11-01
+  keywords: [松屋フーズ, 松屋, 松弁ネット, モバイルオーダー]
+  cves: []
+  posts: [2026-11-01]
+- id: wordpress-core-rce-2026-10
+  title: WordPress 本体 RCE 脆弱性（7.1.4 で修正）に大量攻撃
+  first_reported: 2026-11-01
+  last_updated: 2026-11-01
+  keywords: [WordPress, Wordfence]
+  cves: []
+  posts: [2026-11-01]
+- id: ivanti-ics-chain-2026-10
+  title: Ivanti Connect Secure 脆弱性連鎖攻撃（UTA0576）
+  first_reported: 2026-11-01
+  last_updated: 2026-11-01
+  keywords: [Ivanti, Connect Secure, UTA0576, Volexity]
+  cves: [CVE-2026-111357, CVE-2026-118527, CVE-2026-104935]
+  posts: [2026-11-01]
+- id: northflank-breach-2026-10
+  title: Northflank 侵害と AI API キー不正利用
+  first_reported: 2026-11-01
+  last_updated: 2026-11-01
+  keywords: [Northflank, Wiz, LLMjacking]
+  cves: []
+  posts: [2026-11-01]
+- id: chainalysis-breach-2026-10
+  title: Chainalysis 顧客情報流出（AI 型攻撃）
+  first_reported: 2026-11-01
+  last_updated: 2026-11-01
+  keywords: [Chainalysis]
+  cves: []
+  posts: [2026-11-01]
