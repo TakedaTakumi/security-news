@@ -184,10 +184,10 @@
 - id: binance-hack-probe-2026-10
   title: Binance 最大約58億ドル規模の流出の可能性（調査中）
   first_reported: 2026-10-30
-  last_updated: 2026-10-31
+  last_updated: 2026-11-02
   keywords: [Binance, Tether, Circle, Arkham, TraderTraitor, DevOps]
   cves: []
-  posts: [2026-10-30, 2026-10-31]
+  posts: [2026-10-30, 2026-10-31, 2026-11-02]
 - id: jal-amadeus-2026-10
   title: JAL 旅客情報流出（Amadeus 不正アクセス・約9.2万人）
   first_reported: 2026-10-30
@@ -212,17 +212,17 @@
 - id: polymarket-debugbear-2026-10
   title: Polymarket 第三者スクリプト改ざんによる暗号資産流出
   first_reported: 2026-10-30
-  last_updated: 2026-10-30
+  last_updated: 2026-11-02
   keywords: [Polymarket, DebugBear]
   cves: []
-  posts: [2026-10-30]
+  posts: [2026-10-30, 2026-11-02]
 - id: gitlab-regex-rce-kev-2026-10
   title: GitLab CE/EE 最大深刻度の脆弱性 悪用確認
   first_reported: 2026-10-31
-  last_updated: 2026-10-31
+  last_updated: 2026-11-02
   keywords: [GitLab, CI/CD, 正規表現]
   cves: [CVE-2026-97229]
-  posts: [2026-10-31]
+  posts: [2026-10-31, 2026-11-02]
 - id: drupal-commerce-core-2026-10
   title: Drupal Commerce Core 重大な脆弱性 悪用確認
   first_reported: 2026-10-31
@@ -279,3 +279,17 @@
   keywords: [Chainalysis]
   cves: []
   posts: [2026-11-01]
+- id: lxd-microcloud-auth-bypass-2026-11
+  title: Canonical LXD / MicroCloud 認証回避（CVSS 10.0）
+  first_reported: 2026-11-02
+  last_updated: 2026-11-02
+  keywords: [LXD, MicroCloud, Canonical, Incus]
+  cves: [CVE-2026-112816]
+  posts: [2026-11-02]
+- id: android-sms-of-death-2026-11
+  title: Android「SMS of Death」電話機能クラッシュ脆弱性
+  first_reported: 2026-11-02
+  last_updated: 2026-11-02
+  keywords: [Android, SMS of Death, WapPushOverSms]
+  cves: [CVE-2026-58882]
+  posts: [2026-11-02]
