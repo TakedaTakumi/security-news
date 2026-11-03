@@ -293,3 +293,59 @@
   keywords: [Android, SMS of Death, WapPushOverSms]
   cves: [CVE-2026-58882]
   posts: [2026-11-02]
+- id: ymirlink-cuenote-2026-10
+  title: ユミルリンク Cuenote 不正アクセス（延べ約5,163万件）
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [ユミルリンク, Cuenote, Cuenote FC, Cuenote BASE]
+  cves: []
+  posts: [2026-11-03]
+- id: rakuten-travel-overseas-2026-10
+  title: 楽天トラベル 海外ホテル予約サイト等への不正アクセス
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [楽天トラベル, 楽天グループ, Rakuten Travel Xchange]
+  cves: []
+  posts: [2026-11-03]
+- id: xcpe-botnet-2026-11
+  title: Google が Android TV ボックスのボットネット XCPE を無力化
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [XCPE, Videostrong, Android TV, Google]
+  cves: []
+  posts: [2026-11-03]
+- id: eu-supermarket-refrigeration-2026-11
+  title: 欧州スーパーの冷凍・冷蔵設備への遠隔攻撃
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [Sabcobel, ICA, Coop, Ahold Delhaize, Danfoss, Copeland]
+  cves: []
+  posts: [2026-11-03]
+- id: synology-c3rb3r-2026-11
+  title: Synology NAS を狙うランサムウェア C3RB3R
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [Synology, DSM, C3RB3R]
+  cves: [CVE-2024-10441, CVE-2024-50629, CVE-2024-10445]
+  posts: [2026-11-03]
+- id: btcpay-hotwallet-2026-11
+  title: BTCPay Server 古い版でのホットウォレット流出
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [BTCPay Server]
+  cves: []
+  posts: [2026-11-03]
+- id: langflow-auth-rce-2026-11
+  title: Langflow 認証回避・コード実行の脆弱性群
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [Langflow, IBM]
+  cves: [CVE-2026-93680, CVE-2026-110186, CVE-2026-110193, CVE-2026-110192]
+  posts: [2026-11-03]
+- id: revolve-breach-2026-11
+  title: Revolve 顧客のカード情報等漏えい（約18万人）
+  first_reported: 2026-11-03
+  last_updated: 2026-11-03
+  keywords: [Revolve]
+  cves: []
+  posts: [2026-11-03]
