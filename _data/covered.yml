@@ -184,10 +184,10 @@
 - id: binance-hack-probe-2026-10
   title: Binance 最大約58億ドル規模の流出の可能性（調査中）
   first_reported: 2026-10-30
-  last_updated: 2026-11-02
+  last_updated: 2026-11-04
   keywords: [Binance, Tether, Circle, Arkham, TraderTraitor, DevOps]
   cves: []
-  posts: [2026-10-30, 2026-10-31, 2026-11-02]
+  posts: [2026-10-30, 2026-10-31, 2026-11-02, 2026-11-04]
 - id: jal-amadeus-2026-10
   title: JAL 旅客情報流出（Amadeus 不正アクセス・約9.2万人）
   first_reported: 2026-10-30
@@ -349,3 +349,38 @@
   keywords: [Revolve]
   cves: []
   posts: [2026-11-03]
+- id: muji-app-2026-10
+  title: MUJIアプリ 顧客情報最大約2,726万件流出の可能性
+  first_reported: 2026-11-04
+  last_updated: 2026-11-04
+  keywords: [良品計画, 無印良品, MUJIアプリ]
+  cves: []
+  posts: [2026-11-04]
+- id: cpguard-update-hijack-2026-11
+  title: cPGuard 更新経路の乗っ取り（バックドア・情報窃取、約2,946台）
+  first_reported: 2026-11-04
+  last_updated: 2026-11-04
+  keywords: [cPGuard, OpsShield]
+  cves: []
+  posts: [2026-11-04]
+- id: artex-ai-workos-chainstack-2026-11
+  title: AI 型攻撃ツール ARTEX AI による WorkOS・Chainstack 侵害
+  first_reported: 2026-11-04
+  last_updated: 2026-11-04
+  keywords: [ARTEX AI, WorkOS, Chainstack, Vapor Panda]
+  cves: []
+  posts: [2026-11-04]
+- id: barracuda-root-flaws-2026-11
+  title: Barracuda 製品の root 権限取得につながる脆弱性
+  first_reported: 2026-11-04
+  last_updated: 2026-11-04
+  keywords: [Barracuda, Email Security Gateway, WAF]
+  cves: [CVE-2026-116606, CVE-2026-111560]
+  posts: [2026-11-04]
+- id: mofa-unauthorized-access-2026-10
+  title: 外務省 外部接続ネットワークへの不正アクセス（約3,600件）
+  first_reported: 2026-11-04
+  last_updated: 2026-11-04
+  keywords: [外務省]
+  cves: []
+  posts: [2026-11-04]
