@@ -384,3 +384,59 @@
   keywords: [外務省]
   cves: []
   posts: [2026-11-04]
+- id: alara-message-breach-2026-10
+  title: アララメッセージへの不正アクセス（ビックカメラG約1,490万件・アソビュー約1,582万件ほか）
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [アララ, アララメッセージ, ビックカメラ, コジマ, ソフマップ, アソビュー]
+  cves: []
+  posts: [2026-11-05]
+- id: club-tourism-breach-2026-10
+  title: クラブツーリズム 会員約432万件の個人情報流出の可能性
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [クラブツーリズム]
+  cves: []
+  posts: [2026-11-05]
+- id: 7now-cbcloud-2026-11
+  title: セブン-イレブン「7NOW」・出前館 利用者情報漏えい（CBcloud ピックゴー経由）
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [7NOW, セブン-イレブン, 出前館, CBcloud, ピックゴー]
+  cves: []
+  posts: [2026-11-05]
+- id: gmo-payment-vprica-2026-10
+  title: GMOペイメントゲートウェイ「Vプリカ」利用者情報69件漏えい
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [GMOペイメントゲートウェイ, ライフカード, Vプリカ]
+  cves: []
+  posts: [2026-11-05]
+- id: sonicwall-gms-eol-2026-11
+  title: SonicWall GMS の脆弱性（サポート終了で修正版なし）
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [SonicWall, GMS]
+  cves: [CVE-2026-109593, CVE-2026-109594]
+  posts: [2026-11-05]
+- id: arkea-cyber-heist-2026-11
+  title: Crédit Mutuel Arkéa への攻撃（約1.33億ドル相当との推計）
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [Crédit Mutuel Arkéa, Fortuneo, ZachXBT]
+  cves: []
+  posts: [2026-11-05]
+- id: apple-spyware-german-officials-2026-11
+  title: ドイツ議員・外交スタッフらへの Apple スパイウェア脅威通知
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [Apple, スパイウェア, BSI, ドイツ]
+  cves: []
+  posts: [2026-11-05]
+- id: chrome-157-2026-11
+  title: Chrome 157 で脆弱性213件を修正（クリティカル7件）
+  first_reported: 2026-11-05
+  last_updated: 2026-11-05
+  keywords: [Chrome, Google]
+  cves: [CVE-2026-121035, CVE-2026-121126, CVE-2026-121156, CVE-2026-121203, CVE-2026-121229, CVE-2026-121246, CVE-2026-121247]
+  posts: [2026-11-05]
