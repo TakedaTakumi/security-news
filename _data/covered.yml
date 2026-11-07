@@ -275,10 +275,10 @@
 - id: chainalysis-breach-2026-10
   title: Chainalysis 顧客情報流出（AI 型攻撃）
   first_reported: 2026-11-01
-  last_updated: 2026-11-01
+  last_updated: 2026-11-07
   keywords: [Chainalysis]
   cves: []
-  posts: [2026-11-01]
+  posts: [2026-11-01, 2026-11-07]
 - id: lxd-microcloud-auth-bypass-2026-11
   title: Canonical LXD / MicroCloud 認証回避（CVSS 10.0）
   first_reported: 2026-11-02
@@ -366,10 +366,10 @@
 - id: artex-ai-workos-chainstack-2026-11
   title: AI 型攻撃ツール ARTEX AI による WorkOS・Chainstack 侵害
   first_reported: 2026-11-04
-  last_updated: 2026-11-04
+  last_updated: 2026-11-07
   keywords: [ARTEX AI, WorkOS, Chainstack, Vapor Panda]
   cves: []
-  posts: [2026-11-04]
+  posts: [2026-11-04, 2026-11-07]
 - id: barracuda-root-flaws-2026-11
   title: Barracuda 製品の root 権限取得につながる脆弱性
   first_reported: 2026-11-04
@@ -496,3 +496,52 @@
   keywords: [資さんうどん, カホエンタープライズ]
   cves: []
   posts: [2026-11-06]
+- id: sonicwall-sslvpn-saml-mfa-bypass-2026-11
+  title: SonicWall SonicOS SSL-VPN の SAML/MFA 回避 悪用確認
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [SonicWall, SonicOS, SSL-VPN, SAML, CISA KEV]
+  cves: [CVE-2026-19868]
+  posts: [2026-11-07]
+- id: cosme-istyle-2026-11
+  title: "@cosme 不正アクセス（約300万人）"
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [アイスタイル, "@cosme", cosme.net]
+  cves: []
+  posts: [2026-11-07]
+- id: suntory-cloud-2026-11
+  title: サントリーグループ 外部クラウドサービスへの不正アクセス（約10.6万件）
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [サントリー, 外部クラウド]
+  cves: []
+  posts: [2026-11-07]
+- id: japanpost-mailmag-vendor-2026-10
+  title: 日本郵便 メルマガ配信委託先への不正アクセス
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [日本郵便, 国際郵便マイページ, メールマガジン]
+  cves: []
+  posts: [2026-11-07]
+- id: qnap-plex2shell-2026-11
+  title: QNAP NAS 上の Plex Media Server への攻撃「Plex2Shell」
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [QNAP, Plex, Plex2Shell, NAS]
+  cves: [CVE-2026-96652, CVE-2026-96654, CVE-2026-96655, CVE-2026-96656]
+  posts: [2026-11-07]
+- id: cwpdoor-2026-11
+  title: Control Web Panel のバックドア「cwpdoor」
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [Control Web Panel, CWP, cwpsrv, cwpdoor, XLab]
+  cves: []
+  posts: [2026-11-07]
+- id: dlink-dgs3130-zeroday-2026-11
+  title: D-Link DGS-3130 シリーズの未修正ゼロデイ
+  first_reported: 2026-11-07
+  last_updated: 2026-11-07
+  keywords: [D-Link, DGS-3130, DDP]
+  cves: []
+  posts: [2026-11-07]
