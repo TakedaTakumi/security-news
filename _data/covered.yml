@@ -254,10 +254,10 @@
 - id: wordpress-core-rce-2026-10
   title: WordPress 本体 RCE 脆弱性（7.1.4 で修正）に大量攻撃
   first_reported: 2026-11-01
-  last_updated: 2026-11-01
+  last_updated: 2026-11-08
   keywords: [WordPress, Wordfence]
-  cves: []
-  posts: [2026-11-01]
+  cves: [CVE-2026-119977]
+  posts: [2026-11-01, 2026-11-08]
 - id: ivanti-ics-chain-2026-10
   title: Ivanti Connect Secure 脆弱性連鎖攻撃（UTA0576）
   first_reported: 2026-11-01
@@ -545,3 +545,17 @@
   keywords: [D-Link, DGS-3130, DDP]
   cves: []
   posts: [2026-11-07]
+- id: docomo-mydocomo-shop-2026-11
+  title: NTTドコモ My docomo・オンラインショップへの不正アクセス（最大約30万件）
+  first_reported: 2026-11-08
+  last_updated: 2026-11-08
+  keywords: [ドコモ, My docomo, ドコモオンラインショップ, NTTドコモ]
+  cves: []
+  posts: [2026-11-08]
+- id: claude-code-settings-local-secrets-2026-11
+  title: Claude Code の settings.local.json 経由の秘密情報露出（公開GitHub 1,122件）
+  first_reported: 2026-11-08
+  last_updated: 2026-11-08
+  keywords: [Claude Code, settings.local.json, Apiiro]
+  cves: []
+  posts: [2026-11-08]
