@@ -478,10 +478,10 @@
 - id: openssh-sshole-musl-2026-11
   title: OpenSSH（musl系Linux）の *sshole 認証回避
   first_reported: 2026-11-06
-  last_updated: 2026-11-06
+  last_updated: 2026-11-09
   keywords: [OpenSSH, Alpine, musl, sshole]
-  cves: []
-  posts: [2026-11-06]
+  cves: [CVE-2026-123158]
+  posts: [2026-11-06, 2026-11-09]
 - id: dennys-app-migration-2026-11
   title: デニーズアプリ移行処理の不備による情報流出の可能性
   first_reported: 2026-11-06
@@ -559,3 +559,17 @@
   keywords: [Claude Code, settings.local.json, Apiiro]
   cves: []
   posts: [2026-11-08]
+- id: iris-ohyama-plaza-2026-11
+  title: アイリスオーヤマ アイリスプラザ 外部クラウド不正アクセス（最大約770万人）
+  first_reported: 2026-11-09
+  last_updated: 2026-11-09
+  keywords: [アイリスオーヤマ, アイリスプラザ, 外部クラウド]
+  cves: []
+  posts: [2026-11-09]
+- id: claude-dispatch-extension-2026-11
+  title: Claude Desktop Dispatch のブラウザ拡張機能経由の遠隔操作リスク
+  first_reported: 2026-11-09
+  last_updated: 2026-11-09
+  keywords: [Claude Desktop, Dispatch, Forever Security, ブラウザ拡張機能]
+  cves: []
+  posts: [2026-11-09]
