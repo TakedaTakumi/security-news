@@ -573,3 +573,31 @@
   keywords: [Claude Desktop, Dispatch, Forever Security, ブラウザ拡張機能]
   cves: []
   posts: [2026-11-09]
+- id: n-able-ncentral-zerodays-2026-11
+  title: N-able N-central の30件超の脆弱性公開とサービス停止
+  first_reported: 2026-11-10
+  last_updated: 2026-11-10
+  keywords: [N-able, N-central, RMM]
+  cves: []
+  posts: [2026-11-10]
+- id: arara-mail-delivery-2026-11
+  title: メール配信サービス ARARA 不正アクセス（SEGA 約220万件ほか）
+  first_reported: 2026-11-10
+  last_updated: 2026-11-10
+  keywords: [ARARA, SEGA, モスバーガー, 松竹マルチプレックスシアターズ, TKC, IIJmio]
+  cves: []
+  posts: [2026-11-10]
+- id: vanderbilt-byod-ransomware-2026-11
+  title: バンダービルト大学 ランサムウェア攻撃（BYOD）
+  first_reported: 2026-11-10
+  last_updated: 2026-11-10
+  keywords: [Vanderbilt University, バンダービルト大学, BYOD]
+  cves: []
+  posts: [2026-11-10]
+- id: york-university-forms-2026-11
+  title: York 大学 オンラインフォーム経由の個人情報流出
+  first_reported: 2026-11-10
+  last_updated: 2026-11-10
+  keywords: [York University, ヨーク大学]
+  cves: []
+  posts: [2026-11-10]
