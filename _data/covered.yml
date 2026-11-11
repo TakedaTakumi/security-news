@@ -373,10 +373,10 @@
 - id: barracuda-root-flaws-2026-11
   title: Barracuda 製品の root 権限取得につながる脆弱性
   first_reported: 2026-11-04
-  last_updated: 2026-11-04
+  last_updated: 2026-11-11
   keywords: [Barracuda, Email Security Gateway, WAF]
   cves: [CVE-2026-116606, CVE-2026-111560]
-  posts: [2026-11-04]
+  posts: [2026-11-04, 2026-11-11]
 - id: mofa-unauthorized-access-2026-10
   title: 外務省 外部接続ネットワークへの不正アクセス（約3,600件）
   first_reported: 2026-11-04
@@ -601,3 +601,52 @@
   keywords: [York University, ヨーク大学]
   cves: []
   posts: [2026-11-10]
+- id: nitori-unauthorized-access-2026-11
+  title: ニトリHD 不正アクセスによる顧客情報流出の可能性（最大約3,762万件）
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [ニトリ, ニトリホールディングス, ニトリネット]
+  cves: []
+  posts: [2026-11-11]
+- id: xen-orchestra-auth-bypass-2026-11
+  title: Xen Orchestra 認証回避の脆弱性の悪用（VSA-2026-062）
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [Xen Orchestra, XOA, Vates, XCP-ng]
+  cves: []
+  posts: [2026-11-11]
+- id: microsoft-patch-tuesday-2026-11
+  title: Microsoft 2026年11月月例更新（Outlook ゼロデイ）
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [Microsoft, Patch Tuesday, Outlook, Exchange, 月例更新]
+  cves: [CVE-2026-124194, CVE-2026-118146, CVE-2026-122194, CVE-2026-118207, CVE-2026-120003]
+  posts: [2026-11-11]
+- id: chrome-zeroday-cve-2026-125350
+  title: Chrome XML 処理のゼロデイ（悪用確認）
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [Chrome, Google, ゼロデイ]
+  cves: [CVE-2026-125350]
+  posts: [2026-11-11]
+- id: ai-cloud-platform-breaches-2026-11
+  title: AI・クラウド基盤の侵害（Railway・Fireworks AI・Qubole）
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [Railway, Fireworks AI, Qubole, Black October, LLMjacking, AWS]
+  cves: []
+  posts: [2026-11-11]
+- id: sap-patchday-2026-11
+  title: SAP 11月更新 CVSS 10.0 の脆弱性4件（ICM2SHELL・PROXYGATE）
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [SAP, NetWeaver, Web Dispatcher, SAP Gateway, ICM2SHELL, PROXYGATE]
+  cves: [CVE-2026-76964, CVE-2026-89126, CVE-2026-120017, CVE-2026-89103]
+  posts: [2026-11-11]
+- id: zoom-workplace-windows-2026-11
+  title: Zoom Workplace for Windows の Critical 脆弱性
+  first_reported: 2026-11-11
+  last_updated: 2026-11-11
+  keywords: [Zoom, Zoom Workplace]
+  cves: [CVE-2026-108186, CVE-2026-108187]
+  posts: [2026-11-11]
