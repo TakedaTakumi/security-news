@@ -9,10 +9,10 @@
 - id: php2shell-2026-10
   title: PHP2Shell（PHP本体の重大脆弱性）
   first_reported: 2026-10-26
-  last_updated: 2026-10-30
-  keywords: [PHP, PHP2Shell, Linux Kernel]
-  cves: [CVE-2026-109618, CVE-2026-109619, CVE-2026-46300]
-  posts: [2026-10-26, 2026-10-29, 2026-10-30]
+  last_updated: 2026-11-14
+  keywords: [PHP, PHP2Shell, Linux Kernel, Check Point, TSGA, ESXi]
+  cves: [CVE-2026-109618, CVE-2026-109619, CVE-2026-46300, CVE-2026-123039]
+  posts: [2026-10-26, 2026-10-29, 2026-10-30, 2026-11-14]
 - id: nextcloud-collabora-code-kev-2026-10
   title: Nextcloud内蔵Collabora（richdocumentscode）の脆弱性 CISA KEV追加
   first_reported: 2026-10-26
@@ -240,10 +240,10 @@
 - id: trezor-safe5-implant-2026-10
   title: Trezor Safe 5 不正部品の疑い（CryptoBilis 経由、未確認）
   first_reported: 2026-10-31
-  last_updated: 2026-10-31
+  last_updated: 2026-11-14
   keywords: [Trezor, Safe 5, CryptoBilis, Ledger]
   cves: []
-  posts: [2026-10-31]
+  posts: [2026-10-31, 2026-11-14]
 - id: matsuya-app-2026-10
   title: 松屋フーズ アプリ管理システム侵害（約237万件）
   first_reported: 2026-11-01
@@ -769,3 +769,59 @@
   keywords: [Europol, Operation Endgame, Gootloader, CastleRAT, StealC]
   cves: []
   posts: [2026-11-13]
+- id: postgresql-52-flaws-2026-11
+  title: PostgreSQL 52件の脆弱性修正（CVE-2026-6460 ほか）
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [PostgreSQL, pg_restore]
+  cves: [CVE-2026-6460, CVE-2026-116322]
+  posts: [2026-11-14]
+- id: silentair-telecom-2026-11
+  title: SilentAir による通信事業者設備経由の通話・SMS 傍受
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [SilentAir, Enea, SS7, Liminal Panda]
+  cves: []
+  posts: [2026-11-14]
+- id: nojima-online-breach-2026-11
+  title: ノジマオンライン 会員情報約700万件の流出
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [ノジマ, ノジマオンライン]
+  cves: []
+  posts: [2026-11-14]
+- id: netmile-breach-2026-11
+  title: ネットマイル 最大約549万人の会員情報流出の可能性
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [ネットマイル, ウィルズ, すぐたま]
+  cves: []
+  posts: [2026-11-14]
+- id: bookoff-member-breach-2026-10
+  title: ブックオフ子会社の会員管理システム 約638万人の流出
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [ブックオフ, ブックオフグループホールディングス]
+  cves: []
+  posts: [2026-11-14]
+- id: nttdata-sumitomo-vitality-2026-11
+  title: NTTデータ受託の住友生命 Vitality 申込みサービスへの不正アクセス（約8万人）
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [NTTデータ, 住友生命, Vitality]
+  cves: []
+  posts: [2026-11-14]
+- id: yakult-honsha-web-2026-10
+  title: ヤクルト本社公式サイトへの不正アクセス（約4万件）
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [ヤクルト, ヤクルト本社]
+  cves: []
+  posts: [2026-11-14]
+- id: marui-securitize-japan-2026-11
+  title: 丸井グループ委託先 Securitize Japan への不正アクセス
+  first_reported: 2026-11-14
+  last_updated: 2026-11-14
+  keywords: [丸井グループ, Securitize Japan, デジタル社債]
+  cves: []
+  posts: [2026-11-14]
