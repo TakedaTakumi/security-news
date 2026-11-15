@@ -233,10 +233,10 @@
 - id: cursor-fake-claude-code-ext-2026-10
   title: Cursor マーケットプレイスの偽 Claude Code 拡張機能（SSH バックドア）
   first_reported: 2026-10-31
-  last_updated: 2026-10-31
-  keywords: [Cursor, Claude Code, 拡張機能, SSH]
+  last_updated: 2026-11-15
+  keywords: [Cursor, Claude Code, 拡張機能, SSH, Fireworks AI]
   cves: []
-  posts: [2026-10-31]
+  posts: [2026-10-31, 2026-11-15]
 - id: trezor-safe5-implant-2026-10
   title: Trezor Safe 5 不正部品の疑い（CryptoBilis 経由、未確認）
   first_reported: 2026-10-31
@@ -825,3 +825,45 @@
   keywords: [丸井グループ, Securitize Japan, デジタル社債]
   cves: []
   posts: [2026-11-14]
+- id: facestealer-bluenoroff-2026-11
+  title: 北朝鮮系 FaceStealer キャンペーンのインフラを米当局が押収
+  first_reported: 2026-11-15
+  last_updated: 2026-11-15
+  keywords: [FaceStealer, BlueNoroff, 北朝鮮, Arctic Wolf, FBI]
+  cves: []
+  posts: [2026-11-15]
+- id: quantum-systems-qbase-2026-11
+  title: Quantum Systems 更新サーバー経由の QBase 不正更新（ドイツ軍無人機に影響）
+  first_reported: 2026-11-15
+  last_updated: 2026-11-15
+  keywords: [Quantum Systems, QBase, Vector, Falke, ドイツ軍]
+  cves: []
+  posts: [2026-11-15]
+- id: muji-curtain-nanotech-2026-11
+  title: 無印良品オーダーカーテン委託先（ナノテック）への不正アクセス（19,933件）
+  first_reported: 2026-11-15
+  last_updated: 2026-11-15
+  keywords: [良品計画, 無印良品, ナノテック, MNインターファッション]
+  cves: []
+  posts: [2026-11-15]
+- id: applynow-interview-cloud-2026-08
+  title: ApplyNow（Interview Cloud ほか）への不正アクセス（約40万人）
+  first_reported: 2026-11-15
+  last_updated: 2026-11-15
+  keywords: [ApplyNow, Interview Cloud, ApplyNow Sign]
+  cves: []
+  posts: [2026-11-15]
+- id: tokyu-land-web-2026-10
+  title: 東急不動産 管理ウェブサイトへの不正アクセス
+  first_reported: 2026-11-15
+  last_updated: 2026-11-15
+  keywords: [東急不動産, GREEN CROSS PARK, GREENUP]
+  cves: []
+  posts: [2026-11-15]
+- id: shimane-furusato-ec-2026-08
+  title: 島根県物産協会「しまねのふるさと直送便」EC-CUBE Amazon Pay プラグイン悪用
+  first_reported: 2026-11-15
+  last_updated: 2026-11-15
+  keywords: [島根県物産協会, しまねのふるさと直送便, EC-CUBE, Amazon Pay]
+  cves: []
+  posts: [2026-11-15]
