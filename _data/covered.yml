@@ -191,10 +191,10 @@
 - id: jal-amadeus-2026-10
   title: JAL 旅客情報流出（Amadeus 不正アクセス・約9.2万人）
   first_reported: 2026-10-30
-  last_updated: 2026-10-30
-  keywords: [日本航空, JAL, Amadeus, ANA]
+  last_updated: 2026-11-16
+  keywords: [日本航空, JAL, Amadeus, ANA, Caribbean Airlines]
   cves: []
-  posts: [2026-10-30]
+  posts: [2026-10-30, 2026-11-16]
 - id: cisco-asa-ftd-vpn-dos-2026-10
   title: Cisco ASA/FTD SSL VPN の脆弱性 悪用確認
   first_reported: 2026-10-30
