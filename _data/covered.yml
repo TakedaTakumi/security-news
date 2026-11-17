@@ -867,3 +867,38 @@
   keywords: [島根県物産協会, しまねのふるさと直送便, EC-CUBE, Amazon Pay]
   cves: []
   posts: [2026-11-15]
+- id: axa-direct-prestige-2026-11
+  title: アクサ損害保険 MyAXA およびプレステージ・インターナショナルへの不正アクセス
+  first_reported: 2026-11-17
+  last_updated: 2026-11-17
+  keywords: [アクサ損害保険, MyAXA, プレステージ・インターナショナル, プレステージ・コア・ソリューションズ]
+  cves: []
+  posts: [2026-11-17]
+- id: newspicks-admin-tool-2026-10
+  title: NewsPicks 管理ツールの脆弱性を突いた不正アクセス
+  first_reported: 2026-11-17
+  last_updated: 2026-11-17
+  keywords: [NewsPicks, ユーザベース]
+  cves: []
+  posts: [2026-11-17]
+- id: pharma-digital-2026-10
+  title: 医療関係者向け「Pharma DIGITAL」への不正アクセス（約55.8万名）
+  first_reported: 2026-11-17
+  last_updated: 2026-11-17
+  keywords: [Pharma DIGITAL, 旭化成セラピューティクス, 医薬情報ネット]
+  cves: []
+  posts: [2026-11-17]
+- id: yojiya-member-api-2026-11
+  title: よーじや会員情報管理システムへの不正アクセス（API 経由）
+  first_reported: 2026-11-17
+  last_updated: 2026-11-17
+  keywords: [よーじや]
+  cves: []
+  posts: [2026-11-17]
+- id: ms-ins-contractor-page-2026-11
+  title: 三井住友海上「ご契約者さま専用ページ」への不正アクセス（約3.7万件）
+  first_reported: 2026-11-17
+  last_updated: 2026-11-17
+  keywords: [三井住友海上, ご契約者さま専用ページ]
+  cves: []
+  posts: [2026-11-17]
