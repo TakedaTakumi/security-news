@@ -902,3 +902,59 @@
   keywords: [三井住友海上, ご契約者さま専用ページ]
   cves: []
   posts: [2026-11-17]
+- id: rideon-ginosara-ransomware-2026-10
+  title: 「銀のさら」「釜寅」「すし上等」公式サイト・アプリ 委託先サーバへのランサムウェア攻撃
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [ライドオンエクスプレス, 銀のさら, 釜寅, すし上等]
+  cves: []
+  posts: [2026-11-18]
+- id: beauty-garage-ec-2026-10
+  title: ビューティガレージECサイト不正アクセス（77.5万件）
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [ビューティガレージ]
+  cves: []
+  posts: [2026-11-18]
+- id: yeny-api-misconfig-2026-11
+  title: Yeny API接続設定不備による会員情報漏えい（133万件）
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [Yeny, ultra pay, PayBlend]
+  cves: []
+  posts: [2026-11-18]
+- id: lili-matching-app-2026-10
+  title: マッチングアプリ「Lili」不正アクセス（本人確認書類画像）
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [Lili, キャリー]
+  cves: []
+  posts: [2026-11-18]
+- id: sevenbank-residence-card-2026-11
+  title: セブン銀行 在留カード提出サイトへの不正アクセス
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [セブン銀行, 在留カード]
+  cves: []
+  posts: [2026-11-18]
+- id: macromill-monitor-2026-11
+  title: マクロミル モニタサイト不正アクセス
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [マクロミル, モニタサイト]
+  cves: []
+  posts: [2026-11-18]
+- id: openlogi-shipping-data-2026-11
+  title: オープンロジ 出荷データ持ち出し不正アクセス
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [オープンロジ]
+  cves: []
+  posts: [2026-11-18]
+- id: freeplus-formmailer-eol-2026-10
+  title: フォームメーラー「FreePlus」提供終了
+  first_reported: 2026-11-18
+  last_updated: 2026-11-18
+  keywords: [FreePlus, フューチャースピリッツ]
+  cves: []
+  posts: [2026-11-18]
