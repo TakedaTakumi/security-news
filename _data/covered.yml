@@ -632,10 +632,10 @@
 - id: ai-cloud-platform-breaches-2026-11
   title: AI・クラウド基盤の侵害（Railway・Fireworks AI・Qubole）
   first_reported: 2026-11-11
-  last_updated: 2026-11-12
-  keywords: [Railway, Fireworks AI, Qubole, Black October, LLMjacking, AWS, Notion]
+  last_updated: 2026-11-19
+  keywords: [Railway, Fireworks AI, Qubole, Black October, LLMjacking, AWS, Notion, Uber]
   cves: []
-  posts: [2026-11-11, 2026-11-12]
+  posts: [2026-11-11, 2026-11-12, 2026-11-19]
 - id: sap-patchday-2026-11
   title: SAP 11月更新 CVSS 10.0 の脆弱性4件（ICM2SHELL・PROXYGATE）
   first_reported: 2026-11-11
@@ -958,3 +958,80 @@
   keywords: [FreePlus, フューチャースピリッツ]
   cves: []
   posts: [2026-11-18]
+- id: rakuten-securities-2026-11
+  title: 楽天証券 顧客情報流出の可能性（最大約447万口座）
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [楽天証券, Rakuten Securities]
+  cves: []
+  posts: [2026-11-19]
+- id: java4shell-2026-11
+  title: Java Base64デコーダの脆弱性「Java4Shell」
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [Java4Shell, OpenJDK, Oracle Java, HotSpot, Base64]
+  cves: [CVE-2026-114938]
+  posts: [2026-11-19]
+- id: puppet-report-rce-2026-11
+  title: Puppet Enterprise / Puppet Server RCEの悪用（CISA KEV追加）
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [Puppet, Puppet Enterprise, Perforce, OpenVox]
+  cves: [CVE-2026-115731, CVE-2026-115732]
+  posts: [2026-11-19]
+- id: nginx-http2-rce-2026-11
+  title: NGINX HTTP/2の脆弱性（CVE-2026-123007ほか）
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [NGINX, nginx, HTTP/2, F5]
+  cves: [CVE-2026-123007, CVE-2026-123633, CVE-2026-121810, CVE-2026-113425, CVE-2026-123634]
+  posts: [2026-11-19]
+- id: optimizely-optimjack-2026-11
+  title: Optimizely経由の不正スクリプト「OPTIMJACK」
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [Optimizely, OPTIMJACK, スキマー, クリッパー]
+  cves: []
+  posts: [2026-11-19]
+- id: ms-agent-framework-pypi-2026-11
+  title: Microsoft「agent-framework」PyPIパッケージの認証情報窃取コード
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [agent-framework, Microsoft Agent Framework, PyPI]
+  cves: []
+  posts: [2026-11-19]
+- id: riken-fugaku-2026-11
+  title: 理化学研究所 スパコン「富岳」への不正アクセス
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [理化学研究所, 理研, 富岳, 理究, スーパーコンピュータ]
+  cves: []
+  posts: [2026-11-19]
+- id: apache-roller-rce-2026-11
+  title: Apache Roller 認証不要RCEの悪用
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [Apache Roller, Roller]
+  cves: [CVE-2026-129448, CVE-2026-82384]
+  posts: [2026-11-19]
+- id: f5-bigip-critical-2026-11
+  title: F5 BIG-IP クリティカル脆弱性6件
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [F5, BIG-IP, TMM]
+  cves: [CVE-2026-123637, CVE-2026-121805, CVE-2026-120292, CVE-2026-120285, CVE-2026-116953, CVE-2026-120722]
+  posts: [2026-11-19]
+- id: takarakuji-official-2026-11
+  title: 宝くじ公式サイト・アプリへの不正ログイン
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [宝くじ, 宝くじ公式サイト, 全国自治宝くじ事務協議会]
+  cves: []
+  posts: [2026-11-19]
+- id: cscloud-github-2026-11
+  title: サイバーセキュリティクラウド 開発環境（GitHub）への不正アクセス
+  first_reported: 2026-11-19
+  last_updated: 2026-11-19
+  keywords: [サイバーセキュリティクラウド, CSC, GitHub]
+  cves: []
+  posts: [2026-11-19]
