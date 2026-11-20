@@ -1035,3 +1035,38 @@
   keywords: [サイバーセキュリティクラウド, CSC, GitHub]
   cves: []
   posts: [2026-11-19]
+- id: vmware-vcenter-auth-bypass-2026-11
+  title: VMware vCenter 認証回避の脆弱性（CVE-2026-123890）
+  first_reported: 2026-11-20
+  last_updated: 2026-11-20
+  keywords: [VMware, vCenter, Broadcom, VCF]
+  cves: [CVE-2026-123890]
+  posts: [2026-11-20]
+- id: php-critical-fixes-2026-11
+  title: PHP 重大脆弱性8件の修正（phpAfterShell ほか）
+  first_reported: 2026-11-20
+  last_updated: 2026-11-20
+  keywords: [PHP, phpAfterShell, Depthfirst]
+  cves: [CVE-2026-115560, CVE-2026-129182, CVE-2026-126714, CVE-2026-129289, CVE-2026-129474, CVE-2026-129481, CVE-2026-129496, CVE-2026-129291]
+  posts: [2026-11-20]
+- id: drupal-installer-ruby-regexp-2026-11
+  title: Drupal本体インストーラの脆弱性とRuby正規表現・文字列処理の脆弱性
+  first_reported: 2026-11-20
+  last_updated: 2026-11-20
+  keywords: [Drupal, install.php, Ruby, Regexp]
+  cves: [CVE-2026-132165]
+  posts: [2026-11-20]
+- id: cisa-kev-axis-redcap-litellm-dsm-2026-11
+  title: CISA KEV追加（Apache Axis・REDCap・LiteLLM・Synology DSM）
+  first_reported: 2026-11-20
+  last_updated: 2026-11-20
+  keywords: [CISA, KEV, Apache Axis, REDCap, LiteLLM, Synology, DSM]
+  cves: [CVE-2026-90436, CVE-2026-90817, CVE-2026-40217, CVE-2024-10441]
+  posts: [2026-11-20]
+- id: n-able-mail-assure-breach-2026-11
+  title: N-able Mail Assure／SpamExperts クラウドサーバの侵害
+  first_reported: 2026-11-20
+  last_updated: 2026-11-20
+  keywords: [N-able, Mail Assure, SpamExperts]
+  cves: []
+  posts: [2026-11-20]
