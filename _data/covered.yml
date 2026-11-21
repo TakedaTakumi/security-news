@@ -1038,10 +1038,10 @@
 - id: vmware-vcenter-auth-bypass-2026-11
   title: VMware vCenter 認証回避の脆弱性（CVE-2026-123890）
   first_reported: 2026-11-20
-  last_updated: 2026-11-20
-  keywords: [VMware, vCenter, Broadcom, VCF]
+  last_updated: 2026-11-21
+  keywords: [VMware, vCenter, Broadcom, VCF, Armory Castle, BeyondTrust]
   cves: [CVE-2026-123890]
-  posts: [2026-11-20]
+  posts: [2026-11-20, 2026-11-21]
 - id: php-critical-fixes-2026-11
   title: PHP 重大脆弱性8件の修正（phpAfterShell ほか）
   first_reported: 2026-11-20
@@ -1070,3 +1070,24 @@
   keywords: [N-able, Mail Assure, SpamExperts]
   cves: []
   posts: [2026-11-20]
+- id: cisco-expressway-cve-2026-76466-2026-11
+  title: Cisco Expressway の重大な脆弱性（CVE-2026-76466）の悪用
+  first_reported: 2026-11-21
+  last_updated: 2026-11-21
+  keywords: [Cisco, Expressway, F6]
+  cves: [CVE-2026-76466]
+  posts: [2026-11-21]
+- id: sonicwall-gen6-eol-2026-11
+  title: SonicWall Gen 6 ファイアウォールへのパッチ提供終了の警告
+  first_reported: 2026-11-21
+  last_updated: 2026-11-21
+  keywords: [SonicWall, Gen 6, SonicOS 6]
+  cves: []
+  posts: [2026-11-21]
+- id: linux-kvm-amd-nested-2026-11
+  title: Linux KVM（AMDホスト）のゲストからホストメモリへのアクセス（CVE-2026-99312）
+  first_reported: 2026-11-21
+  last_updated: 2026-11-21
+  keywords: [Linux, KVM, AMD, nested virtualization]
+  cves: [CVE-2026-99312]
+  posts: [2026-11-21]
