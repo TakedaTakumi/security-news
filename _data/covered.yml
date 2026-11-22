@@ -1091,3 +1091,38 @@
   keywords: [Linux, KVM, AMD, nested virtualization]
   cves: [CVE-2026-99312]
   posts: [2026-11-21]
+- id: monai-label-ai-agents-2026-11
+  title: 医療画像サーバ MONAI Label へのAIエージェントによる侵入（CVE-2026-133968）
+  first_reported: 2026-11-22
+  last_updated: 2026-11-22
+  keywords: [MONAI Label, Amazon, AIエージェント]
+  cves: [CVE-2026-133968]
+  posts: [2026-11-22]
+- id: gpgme-double-free-2026-11
+  title: GPGME のダブルフリー脆弱性（CVE-2026-129975）
+  first_reported: 2026-11-22
+  last_updated: 2026-11-22
+  keywords: [GnuPG, GPGME, Gpg4win]
+  cves: [CVE-2026-129975]
+  posts: [2026-11-22]
+- id: whatsapp-three-flaws-2026-11
+  title: WhatsApp の脆弱性3件の修正
+  first_reported: 2026-11-22
+  last_updated: 2026-11-22
+  keywords: [WhatsApp, Meta]
+  cves: [CVE-2026-23871, CVE-2026-102769, CVE-2026-44908]
+  posts: [2026-11-22]
+- id: meta-muse-nebusec-2026-11
+  title: Meta Muse の会話履歴漏えいの欠陥（NebuSec報告）
+  first_reported: 2026-11-22
+  last_updated: 2026-11-22
+  keywords: [Meta, Muse, NebuSec]
+  cves: []
+  posts: [2026-11-22]
+- id: windows-fastunlock-2026-11
+  title: Windows ロック画面回避の未修正手法「FastUnlock」
+  first_reported: 2026-11-22
+  last_updated: 2026-11-22
+  keywords: [Windows, FastUnlock, MSNightmare, BitLocker]
+  cves: []
+  posts: [2026-11-22]
