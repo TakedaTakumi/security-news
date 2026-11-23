@@ -1126,3 +1126,24 @@
   keywords: [Windows, FastUnlock, MSNightmare, BitLocker]
   cves: []
   posts: [2026-11-22]
+- id: openrouter-inference-prompt-theft-2026-11
+  title: AI推論プロバイダ3社でのプロンプト窃取とOpenRouterの除外措置
+  first_reported: 2026-11-23
+  last_updated: 2026-11-23
+  keywords: [OpenRouter, Dragos, Phala, Together AI, Novita, ZDR]
+  cves: []
+  posts: [2026-11-23]
+- id: ghostscript-dsafer-uaf-2026-11
+  title: Ghostscript のサンドボックス回避（CVE-2026-125396）
+  first_reported: 2026-11-23
+  last_updated: 2026-11-23
+  keywords: [Ghostscript, Roundcube, WordPress, ImageMagick]
+  cves: [CVE-2026-125396]
+  posts: [2026-11-23]
+- id: jp-misc-intrusions-2026-11-21
+  title: 国内の不正アクセス公表（中津市民病院・エンラージ商事・日本薬学会、一次未確認）
+  first_reported: 2026-11-23
+  last_updated: 2026-11-23
+  keywords: [中津市民病院, エンラージ商事, 日本薬学会]
+  cves: []
+  posts: [2026-11-23]
