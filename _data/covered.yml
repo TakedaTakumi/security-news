@@ -1066,10 +1066,10 @@
 - id: n-able-mail-assure-breach-2026-11
   title: N-able Mail Assure／SpamExperts クラウドサーバの侵害
   first_reported: 2026-11-20
-  last_updated: 2026-11-20
+  last_updated: 2026-11-24
   keywords: [N-able, Mail Assure, SpamExperts]
-  cves: []
-  posts: [2026-11-20]
+  cves: [CVE-2026-134624]
+  posts: [2026-11-20, 2026-11-24]
 - id: cisco-expressway-cve-2026-76466-2026-11
   title: Cisco Expressway の重大な脆弱性（CVE-2026-76466）の悪用
   first_reported: 2026-11-21
@@ -1147,3 +1147,31 @@
   keywords: [中津市民病院, エンラージ商事, 日本薬学会]
   cves: []
   posts: [2026-11-23]
+- id: azure-apim-classic-norway-2026-11
+  title: Azure API Management（旧来型）の欠陥とノルウェーのエネルギー企業への攻撃
+  first_reported: 2026-11-24
+  last_updated: 2026-11-24
+  keywords: [Azure, API Management, APIM, Equinor, Skagerak Energi, NSM]
+  cves: []
+  posts: [2026-11-24]
+- id: glinet-goodcloud-compromise-2026-11
+  title: GL.iNet GoodCloud 経由のルーター・KVMへのマルウェア感染
+  first_reported: 2026-11-24
+  last_updated: 2026-11-24
+  keywords: [GL.iNet, GoodCloud, ルーター, KVM]
+  cves: []
+  posts: [2026-11-24]
+- id: idunno-anticsrf-rce-2026-11
+  title: Idunno.AntiCsrf の重大な脆弱性と悪用（CVE-2026-131914）
+  first_reported: 2026-11-24
+  last_updated: 2026-11-24
+  keywords: [Idunno.AntiCsrf, ASP.NET, WebForms, Mandiant]
+  cves: [CVE-2026-131914]
+  posts: [2026-11-24]
+- id: fbi-ncic-apparent-hack-2026-11
+  title: FBI 全国犯罪情報データベース（NCIC）への不正アクセスの疑い（未確認）
+  first_reported: 2026-11-24
+  last_updated: 2026-11-24
+  keywords: [FBI, NCIC]
+  cves: []
+  posts: [2026-11-24]
