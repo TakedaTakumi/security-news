@@ -1175,3 +1175,38 @@
   keywords: [FBI, NCIC]
   cves: []
   posts: [2026-11-24]
+- id: vmware-vcenter-vmdir-auth-bypass-2026-11-24
+  title: VMware vCenter の別の認証回避（CVE-2026-123903、VMSA-2026-0011）
+  first_reported: 2026-11-25
+  last_updated: 2026-11-25
+  keywords: [VMware, vCenter, Broadcom, vmdir, VMSA-2026-0011]
+  cves: [CVE-2026-123903, CVE-2026-123904]
+  posts: [2026-11-25]
+- id: kepco-data-breach-2026-11
+  title: 韓国電力公社（KEPCO）の約152万人分の情報流出
+  first_reported: 2026-11-25
+  last_updated: 2026-11-25
+  keywords: [KEPCO, 韓国電力公社, KEPCO ON, SRM, PIPC]
+  cves: []
+  posts: [2026-11-25]
+- id: checkpoint-gt13-campaign-2026-11
+  title: Check Point セキュリティ管理サーバを狙う侵入キャンペーン（GreyNoise GT13）
+  first_reported: 2026-11-25
+  last_updated: 2026-11-25
+  keywords: [Check Point, GreyNoise, GT13, SmartConsole]
+  cves: []
+  posts: [2026-11-25]
+- id: whmcs-sqli-2026-11
+  title: WHMCS の SQL インジェクションなど3件の脆弱性（CVE-2026-82981 ほか）
+  first_reported: 2026-11-25
+  last_updated: 2026-11-25
+  keywords: [WHMCS]
+  cves: [CVE-2026-82981, CVE-2026-82979, CVE-2026-93700]
+  posts: [2026-11-25]
+- id: eu-academy-breach-2026-11
+  title: 欧州委員会 EU Academy の利用者情報流出
+  first_reported: 2026-11-25
+  last_updated: 2026-11-25
+  keywords: [欧州委員会, EU Academy, European Commission]
+  cves: []
+  posts: [2026-11-25]
