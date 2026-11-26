@@ -961,10 +961,10 @@
 - id: rakuten-securities-2026-11
   title: 楽天証券 顧客情報流出の可能性（最大約447万口座）
   first_reported: 2026-11-19
-  last_updated: 2026-11-19
+  last_updated: 2026-11-26
   keywords: [楽天証券, Rakuten Securities]
   cves: []
-  posts: [2026-11-19]
+  posts: [2026-11-19, 2026-11-26]
 - id: java4shell-2026-11
   title: Java Base64デコーダの脆弱性「Java4Shell」
   first_reported: 2026-11-19
@@ -1052,10 +1052,10 @@
 - id: drupal-installer-ruby-regexp-2026-11
   title: Drupal本体インストーラの脆弱性とRuby正規表現・文字列処理の脆弱性
   first_reported: 2026-11-20
-  last_updated: 2026-11-20
-  keywords: [Drupal, install.php, Ruby, Regexp]
+  last_updated: 2026-11-26
+  keywords: [Drupal, install.php, Ruby, Regexp, Fail2Install, CISA KEV]
   cves: [CVE-2026-132165]
-  posts: [2026-11-20]
+  posts: [2026-11-20, 2026-11-26]
 - id: cisa-kev-axis-redcap-litellm-dsm-2026-11
   title: CISA KEV追加（Apache Axis・REDCap・LiteLLM・Synology DSM）
   first_reported: 2026-11-20
@@ -1210,3 +1210,59 @@
   keywords: [欧州委員会, EU Academy, European Commission]
   cves: []
   posts: [2026-11-25]
+- id: plaid-karte-2026-11
+  title: プレイド「KARTE」不正アクセスと利用企業への波及（パルシステム・東宝ほか）
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [プレイド, PLAID, KARTE, パルシステム, 東宝, TOHO-ONE, JINS, しまむら, 三菱UFJ銀行, ZOZO]
+  cves: []
+  posts: [2026-11-26]
+- id: keio-ransomware-2026-11
+  title: 京王電鉄 ランサムウェア被害の調査結果（延べ最大約1,108万人）
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [京王電鉄, 京王グループ, 京王プラザホテル, 京王百貨店, Keio]
+  cves: []
+  posts: [2026-11-26]
+- id: hexpm-rce-2026-11
+  title: Hex.pm 本番サーバへの CVSS 10.0 RCE 悪用
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [Hex.pm, Elixir, Erlang, ash, db_connection, flop]
+  cves: [CVE-2026-129514, CVE-2026-124283, CVE-2026-133555, CVE-2026-130411]
+  posts: [2026-11-26]
+- id: geoserver-wfs-ows-exploit-2026-11
+  title: GeoServer の2つの脆弱性の悪用
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [GeoServer, WFS, OWS, watchTowr, Eye Security]
+  cves: [CVE-2026-120705, CVE-2026-129243, CVE-2026-129245]
+  posts: [2026-11-26]
+- id: cisa-kev-mitel-danfoss-juniper-2026-11
+  title: CISA KEV 追加（Mitel MiCollab・Danfoss AK-SM 800A・Xen Orchestra・Juniper Session Smart）
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [CISA KEV, Mitel, MiCollab, MISA-2026-0012, Danfoss, AK-SM 800A, Juniper, Session Smart Conductor]
+  cves: [CVE-2026-133323, CVE-2026-133303, CVE-2026-133311, CVE-2026-133275, CVE-2026-133324, CVE-2023-25915, CVE-2023-25914, CVE-2025-41450, CVE-2026-133469, CVE-2026-103406]
+  posts: [2026-11-26]
+- id: fincen-intrusion-2026-11
+  title: 米財務省 FinCEN への不正アクセスと一部システム停止
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [FinCEN, 米財務省, BSA E-Filing, FIN-2026-R002]
+  cves: []
+  posts: [2026-11-26]
+- id: okta-inception-vishing-2026-11
+  title: Okta 報告の新リークサイト INCEPTION とビッシング
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [Okta, INCEPTION, ShinyHunters, O-UNC-053, ビッシング]
+  cves: []
+  posts: [2026-11-26]
+- id: yamato-chatplus-2026-11
+  title: ヤマトHD 問い合わせチャット（チャットプラス）への不正アクセス
+  first_reported: 2026-11-26
+  last_updated: 2026-11-26
+  keywords: [ヤマトホールディングス, ヤマト運輸, チャットプラス]
+  cves: []
+  posts: [2026-11-26]
